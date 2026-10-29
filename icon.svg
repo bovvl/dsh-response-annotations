@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Response annotations">
+  <defs>
+    <linearGradient id="annotation-bubble" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b8dff"/>
+      <stop offset="1" stop-color="#2f6bdf"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 10h36a8 8 0 0 1 8 8v20a8 8 0 0 1-8 8H30l-11 9v-9h-5a8 8 0 0 1-8-8V18a8 8 0 0 1 8-8Z" fill="url(#annotation-bubble)"/>
+  <circle cx="25" cy="27" r="7" fill="#fff"/>
+  <text x="25" y="31" text-anchor="middle" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f6bdf">1</text>
+  <path d="M40 22h10M40 30h10" stroke="#fff" stroke-width="3.4" stroke-linecap="round" opacity="0.95"/>
+</svg>
